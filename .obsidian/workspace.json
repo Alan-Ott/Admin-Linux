@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "4bba40d31f9db113",
+    "type": "split",
+    "children": [
+      {
+        "id": "d325f2e3073e41b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1121e8a65a8a89dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BASHCRAWLER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd3bce8875dcc5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revise CMDS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5cc2476baa04831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXERICE COMMANDES SYSTEMES - Alan Ott TP2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84317dec50da1168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Commands Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f66f74de6ea6fb70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Volume de stockage VG VL.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80bff22cee682157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam_TP_AlanOtt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42c425dc1cd6a347",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c6bb618f18bd9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6215ca81eff8576b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bff8e04351ee283c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tar",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "183e4597401eecd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1f974a15ffef5b7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "71c8de5d5d1b3f3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c3b492d1c04d81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exam_TP_AlanOtt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "317d565b07f27340",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Exam_TP_AlanOtt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67a2929c537bcb9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1289e651b15c3db3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Exam_TP_AlanOtt.md"
+              }
+            }
+          },
+          {
+            "id": "1cb10102540777e5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 460.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "80bff22cee682157",
+  "lastOpenFiles": [
+    "Pasted image 20240529122527.png",
+    "Pasted image 20240529122405.png",
+    "Pasted image 20240529122122.png",
+    "Pasted image 20240529121842.png",
+    "Pasted image 20240529121605.png",
+    "Pasted image 20240529121355.png",
+    "Pasted image 20240529120035.png",
+    "Pasted image 20240529114520.png",
+    "Pasted image 20240529114427.png",
+    "Pasted image 20240529113947.png",
+    "Pasted image 20240529113912.png",
+    "BASHCRAWLER.md",
+    "Revise CMDS.md",
+    "EXERICE COMMANDES SYSTEMES - Alan Ott TP2.md",
+    "Volume de stockage VG VL.md",
+    "Linux Commands Notes.md",
+    "Exam_TP_AlanOtt.md",
+    "EXO gestion des packet avec apt.md",
+    "Evaluation Commande De Base - Alan Ott TP1.md",
+    "README.md",
+    "Linux Commands.md",
+    "tada.md",
+    "test 00.md",
+    "TEST UP.md",
+    "Blaaa.mh",
+    "admin-linux",
+    "exo.md",
+    "Excalidraw/Drawing 2024-05-16 16.44.16.excalidraw.md",
+    "Excalidraw",
+    "Welcome.md"
+  ]
+}

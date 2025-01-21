@@ -1,0 +1,16 @@
+{
+  "version": "version1",
+  "enabled": true,
+  "activeScheme": {
+    "id": "synapses",
+    "caption": "Synapses",
+    "sounds": {
+      "key": ".obsidian/plugins/click-clack/resources/synapses/key.wav",
+      "key2": ".obsidian/plugins/click-clack/resources/synapses/key2.wav",
+      "space": ".obsidian/plugins/click-clack/resources/synapses/space.wav",
+      "enter": ".obsidian/plugins/click-clack/resources/synapses/enter.wav",
+      "delete": ".obsidian/plugins/click-clack/resources/synapses/delete.wav"
+    }
+  },
+  "volumn": 100
+}

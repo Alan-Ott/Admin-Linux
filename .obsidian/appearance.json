@@ -1,0 +1,10 @@
+{
+  "accentColor": "#ff0066",
+  "cssTheme": "Hipstersmoothie",
+  "baseFontSize": 25,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "page_width"
+  ],
+  "theme": "obsidian"
+}
